@@ -34,18 +34,30 @@ CSS Grid — Organizes learning categories, class cards, event cards, and footer
 Unsplash — Provides externally hosted images for the events section.
 
 📂 Project Structure
+
 School-website/
 │
 ├── index.html      # Main webpage with embedded CSS
+
 ├── game.png        # Games category image
+
 ├── game2.png       # Additional game image
+
 ├── quiz.png        # Quiz category image
+
 ├── quiz2.png       # Additional quiz image
+
 ├── skills.png      # Skills category image
+
 ├── student1.png    # Hero section image
+
 ├── student2.png    # Promotional banner image
+
 ├── subject.png     # Subjects category image
+
 └── subject1.png    # Additional subjects image
+
+
 🚀 Getting Started
 Prerequisites
 You only need a modern web browser. No backend, package installation, or build tools are required to view the current version.
@@ -87,20 +99,6 @@ There is no authentication, database, or backend integration.
 
 The contact information and event content are placeholders.
 
-🔮 Future Improvements
-Add JavaScript to implement interactive navigation and buttons.
-
-Create dedicated pages for courses, quizzes, games, and subjects.
-
-Add functional quizzes and educational games.
-
-Introduce dynamic course progress tracking.
-
-Connect a backend and database to manage users and learning data.
-
-Improve accessibility, semantic HTML, and keyboard navigation.
-
-Optimize images and test the layout across different browsers and screen sizes.
 
 📌 Project Information
 Project type: Front-end web development
